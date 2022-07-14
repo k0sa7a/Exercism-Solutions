@@ -25,13 +25,17 @@ Note the stop codon "UAA" terminates the translation and the final methionine is
 
 Below are the codons and resulting Amino Acids needed for the exercise.
 
-Codon	Protein
-AUG	Methionine
-UUU, UUC	Phenylalanine
-UUA, UUG	Leucine
-UCU, UCC, UCA, UCG	Serine
-UAU, UAC	Tyrosine
-UGU, UGC	Cysteine
-UGG	Tryptophan
-UAA, UAG, UGA	STOP
+
+| Codon              |     Protein     |
+|--------------------|:---------------:|
+| AUG                |  Methionine     |
+| UUU, UUC           |  Phenylalanine  |
+| UUA, UUG           |  Leucine        |
+| UCU, UCC, UCA, UCG |  Serine         |
+| UAU, UAC           |  Tyrosine       |
+| UGU, UGC           |  Cysteine       |
+| UGG                |  Tryptophan     |
+| UAA, UAG, UGA      |  STOP           |
+
+
 Learn more about protein translation on Wikipedia
