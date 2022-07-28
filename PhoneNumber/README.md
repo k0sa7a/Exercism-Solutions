@@ -14,10 +14,10 @@ Your task is to clean up differently formatted telephone numbers by removing pun
 
 For example, the inputs
 
-+1 (613)-995-0253
-613-995-0253
-1 613 995 0253
-613.995.0253
+* +1 (613)-995-0253
+* 613-995-0253
+* 1 613 995 0253
+* 613.995.0253
 should all produce the output
 
 6139950253
