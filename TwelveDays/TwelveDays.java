@@ -36,7 +36,7 @@ class TwelveDays {
     }
 
     String verses(int startVerse, int endVerse) {
-                String result = "";
+        String result = "";
         for(int i = startVerse - 1; i < endVerse; i++){
             if (i < endVerse - 1){
                 result += songArr.get(i);
