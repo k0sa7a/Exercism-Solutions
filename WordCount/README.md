@@ -15,12 +15,21 @@ The words can be separated by any form of whitespace (ie "\t", "\n", " ")
 For example, for the phrase "That's the password: 'PASSWORD 123'!", cried the Special Agent.\nSo I fled. the count would be:
 
 that's: 1
+
 the: 2
+
 password: 2
+
 123: 1
+
 cried: 1
+
 special: 1
+
 agent: 1
+
 so: 1
+
 i: 1
+
 fled: 1
