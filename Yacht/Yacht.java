@@ -1,5 +1,6 @@
 import java.util.*;
 import java.util.HashMap;
+import java.util.stream.*;
 
 class Yacht {
     int scoreValue;
@@ -140,32 +141,32 @@ class Yacht {
         if(map.get(6) != null && map.get(6) == 3){
             diceArrList.removeAll(Arrays.asList(6));
             if(diceArrList.get(0) == diceArrList.get(1)){
-                scoreValue = 16;
+                scoreValue = IntStream.of(dice).sum();
             }
         } else if(map.get(5) != null && map.get(5) == 3) {
             diceArrList.removeAll(Arrays.asList(5));
             if(diceArrList.get(0) == diceArrList.get(1)){
-                scoreValue = 16;
+                scoreValue = IntStream.of(dice).sum();
             }
         } else if(map.get(4) != null && map.get(4) == 3) {
             diceArrList.removeAll(Arrays.asList(4));
             if(diceArrList.get(0) == diceArrList.get(1)){
-                scoreValue = 16;
+                scoreValue = IntStream.of(dice).sum();
             }
         } else if(map.get(3) != null && map.get(3) == 3) {
             diceArrList.removeAll(Arrays.asList(3));
             if(diceArrList.get(0) == diceArrList.get(1)){
-                scoreValue = 19;
+                scoreValue = IntStream.of(dice).sum();
             }
         } else if(map.get(2) != null && map.get(2) == 3) {
             diceArrList.removeAll(Arrays.asList(2));
             if(diceArrList.get(0) == diceArrList.get(1)){
-                scoreValue = 19;
+                scoreValue = IntStream.of(dice).sum();
             }
         } else if(map.get(1) != null && map.get(1) == 3) {
             diceArrList.removeAll(Arrays.asList(1));
             if(diceArrList.get(0) == diceArrList.get(1)){
-                scoreValue = 19;
+                scoreValue = IntStream.of(dice).sum();
             }
         } else {
             scoreValue = 0;

@@ -11,8 +11,8 @@ Scores in Yacht
 | Fours |	4 × number of fours |	Any combination |	1 2 3 3 5 scores 0
 | Fives |	5 × number of fives |	Any combination |	5 1 5 2 5 scores 15
 | Sixes |	6 × number of sixes |	Any combination |	2 3 4 5 6 scores 6
-| Full House |	Total of the dice |	Three of one number and two of another	3 3 3 5 5 scores 19
-| Four of a Kind |	Total of the four dice |	At least four dice showing the same face	4 4 4 4 6 scores 16
+| Full House |	Total of the dice |	Three of one number and two of another |	3 3 3 5 5 scores 19
+| Four of a Kind |	Total of the four dice |	At least four dice showing the same face |	4 4 4 4 6 scores 16
 | Little Straight |	30 points |	1-2-3-4-5 |	1 2 3 4 5 scores 30
 | Big Straight |	30 points |	2-3-4-5-6 |	2 3 4 5 6 scores 30
 | Choice |	Sum of the dice |	Any combination |	2 3 3 4 6 scores 18
