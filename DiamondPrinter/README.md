@@ -20,24 +20,24 @@ In the following examples, spaces are indicated by · characters.
 
 Diamond for letter 'A':
 
-> A
+* A
 
 Diamond for letter 'C':
 
-> ··A··
-> ·B·B·
-> C···C
-> ·B·B·
-> ··A··
+* ··A··
+* ·B·B·
+* C···C
+* ·B·B·
+* ··A··
 
 Diamond for letter 'E':
 
-> ····A····
-> ···B·B···
-> ··C···C··
-> ·D·····D·
-> E·······E
-> ·D·····D·
-> ··C···C··
-> ···B·B···
-> ····A····
+* ····A····
+* ···B·B···
+* ··C···C··
+* ·D·····D·
+* E·······E
+* ·D·····D·
+* ··C···C··
+* ···B·B···
+* ····A····
