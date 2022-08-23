@@ -4,7 +4,7 @@ Detect saddle points in a matrix.
 So say you have a matrix like so:
 
 |   | 1 | 2 | 3 |
-|---------------|
+|---|---|---|---|
 | 1 | 9 | 8 | 7 |
 | 2 | 5 | 3 | 2 |    <--- saddle point at column 1, row 2, with value 5
 | 3 | 6 | 6 | 7 |
